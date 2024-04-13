@@ -41,3 +41,13 @@ The script will generate the following outputs:
 | 6       | 300              | 65            |
 | 7       | 350              | 70            |
 | 8       | 400              | 75            |
+
+**Submitted by:**
+
+Mannat Pruthi
+
+
+B 3CS6
+
+
+102117185
